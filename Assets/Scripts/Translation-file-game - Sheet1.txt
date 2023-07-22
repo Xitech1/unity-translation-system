@@ -1,0 +1,6 @@
+ID	1. English	2. Dutch	3. French
+mainmenu.welcome	Hey	Hoi	Hey in French
+menu.options.soundsettings	Sound Settings	Geluidsinstellingen	Sound Settings in French
+levelselect.easydifficulty	Easy difficulty	Makkelijke moeilijkheidsgraad	Easy difficulty in French
+game.ui.error.connectionerror	Connection error!	Verbindings fout!	Connection error! in French
+game.ui.story.1.1	Greetings, traveler!	Hallo, reiziger!	Salutations, voyageur !
